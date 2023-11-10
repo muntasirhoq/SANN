@@ -25,7 +25,7 @@ To utilize the SANN model for your specific task, follow these steps:
    ```bash
    git clone https://github.com/your-username/SANN.git
 
-2. Install the necessary dependencies. You may use a virtual environment for this:
+2. Install the necessary dependencies (python, tf). You may use a virtual environment for this:
 
    ```bash
    pip install -r requirements.txt
