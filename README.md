@@ -12,7 +12,7 @@ The code folder includes two main files:
 
 - **parserBFS.py**: This file contains the code to parse Java programs using the javalang parser and formats the programs for the SANN model's use.
 
-- **SANN.py**: This file comprises the preprocessing and model training code. The current version of the code is designed for a specific task (program correctness prediction). To achieve optimal results, it is recommended to tune the model hyperparameters according to the task it is being trained on. Additional information on hyperparameter tuning can be found in the paper.
+- **model.py**: This file comprises the preprocessing and model training code. The current version of the code is designed for a specific task (program correctness prediction). To achieve optimal results, it is recommended to tune the model hyperparameters according to the task it is being trained on. Additional information on hyperparameter tuning can be found in the paper.
 
 ## Usage
 
