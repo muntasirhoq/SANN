@@ -44,7 +44,7 @@ To utilize the SANN model for your specific task, follow these steps:
 ### Citation
 
 If you find this code or the SANN model useful for your work, please cite the following paper:
-```bash
-Hoq, M., Chilla, S. R., Ahmadi Ranjbar, M., Brusilovsky, P., & Akram, B. (2023, October). SANN: Programming Code Representation Using Attention Neural Network with Optimized Subtree Extraction. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (pp. 783-792).
+
+Muntasir Hoq, Sushanth Reddy Chilla, Melika Ahmadi Ranjbar, Peter Brusilovsky, and Bita Akram. 2023. SANN: Programming Code Representation Using Attention Neural Network with Optimized Subtree Extraction. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 783–792. https://doi.org/10.1145/3583780.3615047
 
 
