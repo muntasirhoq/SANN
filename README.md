@@ -30,7 +30,7 @@ To utilize the SANN model for your specific task, follow these steps:
    ```bash
    cd SANN
 
-3. Install the necessary dependencies. You may use a virtual environment for this (will be uploaded soon):
+3. Install the necessary dependencies. You may use a virtual environment for this:
 
    ```bash
    pip install -r requirements.txt
