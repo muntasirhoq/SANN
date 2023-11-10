@@ -39,7 +39,10 @@ To utilize the SANN model for your specific task, follow these steps:
 
 5. Execute the code to train or use the SANN model.
 
-6. Add testing code in this version.
+   ```bash
+   python model.py
+
+7. Add testing code in this version.
 
 ### Citation
 
