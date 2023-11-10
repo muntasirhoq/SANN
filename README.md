@@ -25,24 +25,19 @@ To utilize the SANN model for your specific task, follow these steps:
    ```bash
    git clone https://github.com/your-username/SANN.git
 
-2. Navigate to the repository:
-
-   ```bash
-   cd SANN
-
-3. Install the necessary dependencies. You may use a virtual environment for this:
+2. Install the necessary dependencies. You may use a virtual environment for this:
 
    ```bash
    pip install -r requirements.txt
 
-4. Customize the model parameters and configurations in the code files if needed.
+3. Customize the model parameters and configurations in the code files if needed.
 
-5. Execute the code to train or use the SANN model.
+4. Execute the code to train or use the SANN model.
 
    ```bash
    python model.py
 
-7. Add testing code in this version.
+5. Add testing code in this version.
 
 ### Citation
 
